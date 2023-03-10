@@ -1,2 +1,2 @@
-pythest
+pytest
 selene
