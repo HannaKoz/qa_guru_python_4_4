@@ -75,4 +75,5 @@ def test_dicts():
     d = dict(zip(first, second))
     assert isinstance(d, dict)
     assert len(d) == 5
+    print(d)
 
